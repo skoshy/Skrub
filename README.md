@@ -1,6 +1,6 @@
 ﻿# Skrub
 
-Simple library by Stefan Koshy. Just contains random functions that are handy to have.
+A simple library by Stefan Koshy. Just contains random functions that are handy to have.
 
 ## What are some of the functions?
 
