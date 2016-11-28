@@ -14,7 +14,7 @@ A simple library by Stefan Koshy. Just contains random functions that are handy 
 
 ## How do I use it?
 
-Simply include the code in the skrub.js file. You can then invoke any of the public functions by calling Skrub.
+Simply include the code in the skrub.js file. You can then invoke any of the public functions by calling `Skrub`.
 
 ## Known Issues
 
